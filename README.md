@@ -26,5 +26,5 @@
    * Reveiwxprt
     — Developed an single page e-commerce web app to find and post a review of nearby local store.
     
-   * Ultimate Fitness Club
-    — Built an website for gym, where user can see his active plan and activity. User can pay his gym subscription fee through website or he/she can change the plan.
+   * AM Tours & Travels
+    — Built an travel website, where user can check destination listed on website and get deatils about them.
